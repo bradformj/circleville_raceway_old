@@ -1,0 +1,12 @@
+ {
+	"name": "Circleville Raceway Park",
+	"description": "Karting Track in Central Ohio",
+	"tags" : ["circuit","kart","autocross","original","usa"],
+	"geotags": ["lat", "lon"],
+	"country": "U.S.A.",
+	"city": "Circlevill",
+	"length": "short",
+	"width": "narrow",
+	"pitboxes": "1",
+	"run": "anti-clockwise"
+}
